@@ -1,0 +1,368 @@
+body{
+  background-color: rgb(219, 226, 222);
+}
+header{
+  height: 100px;
+  font-size: 4rem;
+  margin-left: 150px;
+  margin-top: -90px;
+  padding: -20px;
+  color: brown;
+}
+
+ul{
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 800px;
+  font-size: 1.05rem;
+  margin-top: -50px;
+}
+.id-panel{
+  height: 100px;
+  width: 700px;
+  font-size: 50px;
+  margin-left: 50px;
+  margin-top: 80px; 
+  font-weight: 900;
+ /** padding: 50px;
+  margin: 50px;**/
+}
+.id-small{
+  margin-left: 50px;
+  margin-top: 100px;
+  height: 100px;
+  width: 600px;
+  font-size: 1rem;
+}
+button{
+  margin-left: 50px;
+  background-color: rgb(210, 210, 76);
+  border-radius: 5px;
+  font-size: 1.5rem;
+  margin-top: -100px;
+}
+#hello{
+ /** background-image: url(logo.png);**/
+  
+  height: 100px;
+  width: 110px;
+  margin-left: 25px;
+  margin-top: 50px;
+}
+.bulb{
+  font-size: 5rem;
+  margin-top: 50px;
+  }
+.contact-photo{
+   height: 100px;
+   width: 100px;
+   background-image: url(profile.png);
+   background-size: cover;
+}
+.fa-solid {
+  font-size: 1rem;
+  color:black;
+  
+}
+.perfect{
+  font-size: 2.5rem;
+  padding: 30px;
+  font-weight: 900;
+  margin-top: 100px;
+}
+.picture{
+  background-image: url(happy-hindu-guy-gambling-online-using-laptop_116547-19124.avif);
+  background-size: cover;
+  height: 400px;
+  width: 550px;
+  margin-left: 900px;
+  border-radius: 10px;
+  margin-top: -300px;
+}
+.tutor{
+  margin-left: 30px;
+  font-weight: 600;
+}
+.fa-solid {
+  font-size: 7rem;
+  margin-left: 30px;
+  border: 5px solid black;
+  margin-top: 80px;
+}
+h3{
+  margin-left: 30px;
+  font-size: 1.5rem;
+}
+p{
+  margin-left: 30px;
+}
+.fa-regular{
+  font-size: 7rem;
+  margin-left: 30px;
+  border: 5px solid black;
+  margin-top: 80px;
+}
+.all{
+  display: flex;
+}
+.container{
+  margin-left: 600px;
+  margin-top: -370px;
+}
+.earbuds{
+  margin-left: 1100px;
+  margin-top: -370px;
+}
+.main{
+  height: 700px;
+  width: 1200px;
+  margin-top: 200px;
+  text-align: center;
+  margin-left: 150px;
+  font-size: 4rem;
+  
+}
+.suraj{
+  margin-top: 200px;
+  text-align: center;
+  margin-left: 80px;
+  margin-top: -600px;
+  font-size: 1.5rem;
+}
+
+
+.hemlo{
+  height: 400px;
+  width: 600px;
+  background-image: url(happy-student-with-books-on-red-background.webp);
+  background-size: cover;
+  border-radius: 15px;
+  margin-top: 200px;
+  margin-left: 30px;
+}
+
+.uttrakhand{
+  font-size: 4rem;
+  font-weight: 900;
+  margin-left: 700px;
+  margin-top: -400px;
+}
+.meme{
+  margin-left:700px ;
+  margin-top: 50px;
+}
+.flexible{
+  margin-left: 700px;
+  font-size: 2rem;
+}
+.drop{
+  margin-left: 1000px;
+  font-size: 2rem;
+  margin-top: -99px;
+}
+.cooler{
+  margin-left: 700px;
+}
+.moti{
+  margin-left: 1000px;
+}
+.momo{
+  margin-left: 750px;
+  font-size: 2rem;
+  margin-top: 20px;
+}
+.hehe{
+  height: 500px;
+  width: 600px;
+  background-image: url(cap.webp);
+  background-size: cover;
+  margin-left: 850px;
+  border-radius: 15px;
+  margin-top: 200px;
+}
+h2{
+  margin-left: -800px;
+  margin-top: 400px;
+  font-size: 3rem;
+}
+.up{
+  margin-left: 100px;
+  margin-top: 100px;
+}
+.learn{
+  margin-left: 300px;
+  margin-top: -25px;
+}
+
+.teddy{
+  margin-left: 80px;
+  margin-top: -350px;
+}
+.star{
+  margin-top: -700px;
+  font-size: 2rem;
+  font-weight: 800;
+}
+.emoji{
+  font-size: 50px;
+}
+.DIANA{
+  margin-left: 130px;
+  margin-top: -110px;
+  font-weight: 300;
+  font-size: 1.6rem;
+
+}
+.student{
+  margin-left: 129px;
+  font-size: 1.2rem;
+  margin-top: -20px;
+}
+.badshah{
+  margin-left: 600px;
+  margin-top: -280px;
+  font-size: 2rem;
+  font-weight: 800;
+}
+.pgli{
+  margin-left: 600px;
+}
+
+.vicks{
+  height: 800px;
+  width: 800px;
+  font-size: 4rem;
+  margin-left: 30px;
+  margin-top: 300px;
+  font-weight: 900
+  ;
+}
+.emli{
+  font-size: 50px;
+  margin-left: 600px;
+}
+.mustafa{
+  margin-left: 700px;
+  margin-top: -110px;
+  font-size: 1.5rem;
+}
+.naam{
+  margin-left:700px ;
+  margin-top: -10px;
+  font-size: 1.2rem;
+}
+.narak{
+  margin-left: 1200px;
+  margin-top: -290px;
+  font-size: 2.5rem;
+}
+.vipin{
+  margin-left: 1200px;
+  margin-top: -20px;
+}
+.milton{
+  margin-left: 1200px;
+  font-size: 3.5rem;
+  margin-top: 45px;
+}
+.habibi{
+  margin-left: 1300px;
+  font-size: 1.5rem;
+  margin-top: -120px;
+}
+.tareef{
+  margin-left: 1300px;
+  font-size: 1.2rem;
+  margin-top: -10px;
+}
+.peanut{
+  height: 100px;
+  width: 100px;
+  font-size: 3rem;
+  margin-top: 300px;
+  margin-left: 200px;
+  color: brown;
+  font-weight: 900;
+  
+}
+.cheems{
+  /*background-image: url(cheems.png);
+  background-size: cover;**/
+  font-size: 6rem;
+  height: 150px;
+  width: 175px;
+  margin-top: -250px;
+  margin-left: 200px;
+}
+.list{
+  margin-left: 600px;
+  margin-top: -500px;
+  font-size: 1.5rem;
+  
+}
+h5{
+  margin-left: 1000px;
+  font-size: 1.2rem;
+  margin-top: -150px;
+}
+.bottle{
+  margin-left: 1000px;
+}
+.fife{
+  margin-left: 1000px;
+  border: 1px solid yellow;
+  font-size: 1.2rem;
+  border-radius: 15px;
+  margin-top: -100px;
+}
+.mail{
+  font-size: 1rem;
+  background-color: yellow;
+  border-radius: 15px;
+  margin-top: -400px;
+}
+.agree{
+  margin-left: 1000px;
+  margin-top: 50px;
+}
+
+.space{
+  height: 400px;
+  width: 1500px;
+}
+/**.footer{
+  display: flex;
+  background-color: yellow;
+  height: 200px;
+  width: 1400px;
+}
+.last{
+  margin-top: 100px;
+  justify-content: space-between
+
+  align-items: center;
+  margin-left: 100px;
+}**/
+footer {
+  background-color: yellow;
+  padding: 40px;
+  text-align: center;
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: #000;
+  margin: 0 10px;
+}
+
+.footer-links a:hover {
+  color: #007bff;
+}
+
+.footer-links a::after {
+  content: " | ";
+}
+
+.footer-links a:last-child::after {
+  content: "";
+}
